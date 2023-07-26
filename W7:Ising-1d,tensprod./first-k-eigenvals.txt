@@ -1,0 +1,1224 @@
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	2        	-1.00000000         -1.00000000         1.00000000         1.00000000         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	2        	-1.00498756         -1.00000000         1.00000000         1.00498756         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	2        	-1.01980390         -1.00000000         1.00000000         1.01980390         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	2        	-1.04403065         -1.00000000         1.00000000         1.04403065         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	2        	-1.07703296         -1.00000000         1.00000000         1.07703296         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	2        	-1.11803399         -1.00000000         1.00000000         1.11803399         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	2        	-1.16619038         -1.00000000         1.00000000         1.16619038         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	2        	-1.22065556         -1.00000000         1.00000000         1.22065556         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	2        	-1.28062485         -1.00000000         1.00000000         1.28062485         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	2        	-1.34536240         -1.00000000         1.00000000         1.34536240         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	2        	-1.41421356         -1.00000000         1.00000000         1.41421356         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	2        	-1.48660687         -1.00000000         1.00000000         1.48660687         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	2        	-1.56204994         -1.00000000         1.00000000         1.56204994         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	2        	-1.64012195         -1.00000000         1.00000000         1.64012195         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	2        	-1.72046505         -1.00000000         1.00000000         1.72046505         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	2        	-1.80277564         -1.00000000         1.00000000         1.80277564         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	2        	-1.88679623         -1.00000000         1.00000000         1.88679623         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	2        	-1.97230829         -1.00000000         1.00000000         1.97230829         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	2        	-2.05912603         -1.00000000         1.00000000         2.05912603         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	2        	-2.14709106         -1.00000000         1.00000000         2.14709106         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	-2.23606798         -1.00000000         1.00000000         2.23606798         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	2        	-2.32594067         -1.00000000         1.00000000         2.32594067         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	2        	-2.41660919         -1.00000000         1.00000000         2.41660919         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	2        	-2.50798724         -1.00000000         1.00000000         2.50798724         1033418051266708488532614134547556357374300330970492666113396787752785079196758760700712437199043021482835888415085194104766551353787121296851551861432322054270012144667144158453957690951297110633850945956750941156968280124481043057993370828800.00000000         97875986433270736347827615637728933040822634280225651566999505136723172261693636107254840220935436577036139369097929647988823130785705555447451770445491701442758371805821216282897407593071106532048896.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	2        	-2.60000000         -1.00000000         1.00000000         2.60000000         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	2        	-2.69258240         -1.00000000         1.00000000         2.69258240         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	2        	-2.78567766         -1.00000000         1.00000000         2.78567766         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	2        	-2.87923601         -1.00000000         1.00000000         2.87923601         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	2        	-2.97321375         -1.00000000         1.00000000         2.97321375         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	2        	-3.06757233         -1.00000000         1.00000000         3.06757233         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	2        	-3.16227766         -1.00000000         1.00000000         3.16227766         .00000000         11757537916791332074152680299932298256392054860127988409696786439582947761121891322345381258351530625073104825458605179078181643437198473101671152641807767966058175223057275878895582744519988365296286087558285230080.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	2        	-3.25729949         -1.00000000         1.00000000         3.25729949         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	2        	-3.35261092         -1.00000000         1.00000000         3.35261092         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	2        	-3.44818793         -1.00000000         1.00000000         3.44818793         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	2        	-3.54400903         -1.00000000         1.00000000         3.54400903         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	2        	-3.64005494         -1.00000000         1.00000000         3.64005494         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	2        	-3.73630834         -1.00000000         1.00000000         3.73630834         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	2        	-3.83275358         -1.00000000         1.00000000         3.83275358         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	2        	-3.92937654         -1.00000000         1.00000000         3.92937654         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	2        	-4.02616443         -1.00000000         1.00000000         4.02616443         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	2        	-4.12310563         -1.00000000         1.00000000         4.12310563         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	2        	-4.22018957         -1.00000000         1.00000000         4.22018957         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	2        	-4.31740663         -1.00000000         1.00000000         4.31740663         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	2        	-4.41474801         -1.00000000         1.00000000         4.41474801         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	2        	-4.51220567         -1.00000000         1.00000000         4.51220567         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	2        	-4.60977223         -1.00000000         1.00000000         4.60977223         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	2        	-4.70744092         -1.00000000         1.00000000         4.70744092         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	2        	-4.80520551         -1.00000000         1.00000000         4.80520551         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	2        	-4.90306027         -1.00000000         1.00000000         4.90306027         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	2        	-5.00099990         -1.00000000         1.00000000         5.00099990         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	2        	-5.09901951         -1.00000000         1.00000000         5.09901951         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	2        	-5.19711458         -1.00000000         1.00000000         5.19711458         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	2        	-5.29528092         -1.00000000         1.00000000         5.29528092         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	2        	-5.39351462         -1.00000000         1.00000000         5.39351462         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	2        	-5.49181209         -1.00000000         1.00000000         5.49181209         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	2        	-5.59016994         -1.00000000         1.00000000         5.59016994         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	2        	-5.68858506         -1.00000000         1.00000000         5.68858506         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	2        	-5.78705452         -1.00000000         1.00000000         5.78705452         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	2        	-5.88557559         -1.00000000         1.00000000         5.88557559         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	2        	-5.98414572         -1.00000000         1.00000000         5.98414572         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	2        	-6.08276253         -1.00000000         1.00000000         6.08276253         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	3        	-2.00000000         -2.00000000         -.00000000         -.00000000         .00000000         .00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	3        	-2.00325035         -2.00300098         -.05000000         -.04975062         .04975062         .05000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	3        	-2.01349965         -2.01151964         -.10000000         -.09801999         .09801999         .10000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	3        	-2.03146512         -2.02486677         -.15000000         -.14340166         .14340166         .15000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	3        	-2.05777787         -2.04241508         -.20000000         -.18463721         .18463721         .20000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	3        	-2.09292308         -2.06360650         -.25000000         -.22068342         .22068342         .25000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	3        	-2.13718764         -2.08795257         -.30000000         -.25076493         .25076493         .30000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	3        	-2.19062764         -2.11503041         -.35000000         -.27440277         .27440277         .35000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	3        	-2.25306438         -2.14447659         -.40000000         -.29141221         .29141221         .40000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	3        	-2.32410945         -2.17598009         -.45000000         -.30187064         .30187064         .45000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	3        	-2.40321193         -2.20927536         -.50000000         -.30606343         .30606343         .50000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	3        	-2.48971547         -2.24413573         -.55000000         -.30442026         .30442026         .55000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	3        	-2.58291400         -2.28036764         -.60000000         -.29745364         .29745364         .60000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	3        	-2.68209782         -2.31780551         -.65000000         -.28570769         .28570769         .65000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	3        	-2.78658685         -2.35630740         -.70000000         -.26972055         .26972055         .70000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	3        	-2.89575131         -2.39575131         -.75000000         -.25000000         .25000000         .75000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	3        	-3.00902212         -2.43603209         -.80000000         -.22700997         .22700997         .80000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	3        	-3.12589384         -2.47705881         -.85000000         -.20116497         .20116497         .85000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	3        	-3.24592286         -2.51875260         -.90000000         -.17282973         .17282973         .90000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	3        	-3.36872291         -2.56104480         -.95000000         -.14232189         .14232189         .95000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	3        	-3.49395921         -2.60387547         -1.00000000         -.10991626         .10991626         1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	3        	-3.62134239         -2.64719212         -1.05000000         -.07584973         .07584973         1.05000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	3        	-3.75062255         -2.69094859         -1.10000000         -.04032605         .04032605         1.10000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	3        	-3.88158377         -2.73510422         -1.15000000         -.00352045         .00352045         1.15000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	3        	-4.01403928         -2.77962302         -1.20000000         -.03441626         .03441626         1.20000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	3        	-4.14782724         -2.82447311         -1.25000000         -.07335414         .07335414         1.25000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	3        	-4.28280704         -2.86962610         -1.30000000         -.11318094         .11318094         1.30000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	3        	-4.41885621         -2.91505668         -1.35000000         -.15379953         .15379953         1.35000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	3        	-4.55586780         -2.96074224         -1.40000000         -.19512556         .19512556         1.40000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	3        	-4.69374810         -3.00666246         -1.45000000         -.23708564         .23708564         1.45000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	3        	-4.83241479         -3.05279911         -1.50000000         -.27961568         .27961568         1.50000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	3        	-4.97179529         -3.09913574         -1.55000000         -.32265955         .32265955         1.55000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	3        	-5.11182548         -3.14565752         -1.60000000         -.36616796         .36616796         1.60000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	3        	-5.25244849         -3.19235100         -1.65000000         -.41009749         .41009749         1.65000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	3        	-5.39361375         -3.23920398         -1.70000000         -.45440977         .45440977         1.70000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	3        	-5.53527619         -3.28620539         -1.75000000         -.49907080         .49907080         1.75000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	3        	-5.67739549         -3.33334512         -1.80000000         -.54405036         .54405036         1.80000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	3        	-5.81993551         -3.38061397         -1.85000000         -.58932154         .58932154         1.85000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	3        	-5.96286378         -3.42800349         -1.90000000         -.63486029         .63486029         1.90000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	3        	-6.10615103         -3.47550599         -1.95000000         -.68064505         .68064505         1.95000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	3        	-6.24977084         -3.52311436         -2.00000000         -.72665648         .72665648         2.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	3        	-6.39369927         -3.57082211         -2.05000000         -.77287716         .77287716         2.05000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	3        	-6.53791461         -3.61862324         -2.10000000         -.81929138         .81929138         2.10000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	3        	-6.68239714         -3.66651222         -2.15000000         -.86588492         .86588492         2.15000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	3        	-6.82712885         -3.71448394         -2.20000000         -.91264491         .91264491         2.20000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	3        	-6.97209334         -3.76253369         -2.25000000         -.95955965         .95955965         2.25000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	3        	-7.11727558         -3.81065709         -2.30000000         -1.00661849         1.00661849         2.30000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	3        	-7.26266182         -3.85885010         -2.35000000         -1.05381172         1.05381172         2.35000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	3        	-7.40823943         -3.90710894         -2.40000000         -1.10113048         1.10113048         2.40000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	3        	-7.55399677         -3.95543011         -2.45000000         -1.14856666         1.14856666         2.45000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	3        	-7.69992316         -4.00381036         -2.50000000         -1.19611280         1.19611280         2.50000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	3        	-7.84600873         -4.05224665         -2.55000000         -1.24376208         1.24376208         2.55000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	3        	-7.99224435         -4.10073614         -2.60000000         -1.29150821         1.29150821         2.60000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	3        	-8.13862157         -4.14927618         -2.65000000         -1.33934539         1.33934539         2.65000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	3        	-8.28513259         -4.19786430         -2.70000000         -1.38726829         1.38726829         2.70000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	3        	-8.43177014         -4.24649818         -2.75000000         -1.43527195         1.43527195         2.75000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	3        	-8.57852747         -4.29517565         -2.80000000         -1.48335182         1.48335182         2.80000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	3        	-8.72539832         -4.34389466         -2.85000000         -1.53150366         1.53150366         2.85000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	3        	-8.87237683         -4.39265330         -2.90000000         -1.57972353         1.57972353         2.90000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	3        	-9.01945755         -4.44144978         -2.95000000         -1.62800778         1.62800778         2.95000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	-9.16663540         -4.49028239         -3.00000000         -1.67635301         1.67635301         3.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	4        	-3.00000000         -3.00000000         -1.00000000         -1.00000000         -1.00000000         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	4        	-3.00375702         -3.00374455         -1.07249248         -1.07248001         -1.00001247         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	4        	-3.01511152         -3.01491352         -1.14820280         -1.14800480         -1.00019800         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	4        	-3.03430820         -3.03331848         -1.22666977         -1.22568005         -1.00098972         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	4        	-3.06173480         -3.05866277         -1.30750194         -1.30442991         -1.00307203         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	4        	-3.09788888         -3.09056425         -1.39036853         -1.38304390         -1.00732463         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	4        	-3.14332680         -3.12858136         -1.47499049         -1.46024506         -1.01474544         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	4        	-3.19859506         -3.17223896         -1.56113248         -1.53477638         -1.02635610         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	4        	-3.26414983         -3.22105113         -1.64859572         -1.60549701         -1.04309870         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	4        	-3.34027755         -3.27453950         -1.73721196         -1.67147390         -1.06573805         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	4        	-3.42703409         -3.33224650         -1.82683840         -1.73205081         -1.09478759         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	4        	-3.52421829         -3.39374410         -1.91735342         -1.78687923         -1.13047419         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	4        	-3.63138581         -3.45863854         -2.00865310         -1.83590583         -1.17274727         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	4        	-3.74789700         -3.52657223         -2.10064829         -1.87932352         -1.22132476         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	4        	-3.87298335         -3.59722348         -2.19326222         -1.91750236         -1.27575986         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	4        	-4.00581557         -3.67030489         -2.28642857         -1.95091789         -1.33551068         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	4        	-4.14556091         -3.74556091         -2.38008979         -1.98008979         -1.40000000         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	4        	-4.29142428         -3.82276512         -2.47419576         -2.00553660         -1.46865916         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	4        	-4.44267309         -3.90171721         -2.56870269         -2.02774682         -1.54095587         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	4        	-4.59864900         -3.98224022         -2.66357220         -2.04716341         -1.61640878         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	4        	-4.75877048         -4.06417777         -2.75877048         -2.06417777         -1.69459271         -1.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	4        	-4.92252960         -4.14739168         -2.85426772         -2.07912980         -1.77513792         -1.06826188
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	4        	-5.08948581         -4.23175967         -2.95003749         -2.09231135         -1.85772614         -1.13944832
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	4        	-5.25925856         -4.31717345         -3.04605633         -2.10397122         -1.94208511         -1.21320223
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	4        	-5.43151958         -4.40353694         -3.14230334         -2.11432070         -2.02798264         -1.28921624
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	4        	-5.60598575         -4.49076477         -3.23875983         -2.12353885         -2.11522098         -1.36722592
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	4        	-5.78241258         -4.57878091         -3.33540907         -2.20363167         -2.13177740         -1.44700351
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	4        	-5.96058851         -4.66751755         -3.43223603         -2.29307096         -2.13916508         -1.52835247
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	4        	-6.14033003         -4.75691407         -3.52922718         -2.38341595         -2.14581123         -1.61110285
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	4        	-6.32147749         -4.84691617         -3.62637030         -2.47456131         -2.15180899         -1.69510719
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	4        	-6.50389156         -4.93747511         -3.72365433         -2.56641644         -2.15723788         -1.78023723
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	4        	-6.68745026         -5.02854705         -3.82106925         -2.65890321         -2.16216604         -1.86638101
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	4        	-6.87204645         -5.12009248         -3.91860595         -2.75195397         -2.16665197         -1.95344050
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	4        	-7.05758570         -5.21207569         -4.01625614         -2.84551001         -2.17074613         -2.04132956
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	4        	-7.24398454         -5.30446441         -4.11401225         -2.93952013         -2.17449213         -2.12997229
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	4        	-7.43116892         -5.39722934         -4.21186737         -3.03393957         -2.21930155         -2.17792779
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	4        	-7.61907297         -5.49034388         -4.30981515         -3.12872909         -2.30925782         -2.18108606
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	4        	-7.80763793         -5.58378381         -4.40784980         -3.22385412         -2.39978813         -2.18399568
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	4        	-7.99681121         -5.67752706         -4.50596596         -3.31928415         -2.49084525         -2.18668181
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	4        	-8.18654559         -5.77155344         -4.60415872         -3.41499215         -2.58238688         -2.18916656
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	4        	-8.37679864         -5.86584451         -4.70242354         -3.51095413         -2.67437509         -2.19146941
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	4        	-8.56753203         -5.96038334         -4.80075625         -3.60714869         -2.76677578         -2.19360756
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	4        	-8.75871114         -6.05515440         -4.89915297         -3.70355674         -2.85955817         -2.19559623
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	4        	-8.95030456         -6.15014340         -4.99761011         -3.80016116         -2.95269445         -2.19744895
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	4        	-9.14228377         -6.24533720         -5.09612435         -3.89694657         -3.04615942         -2.19917778
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	4        	-9.33462281         -6.34072366         -5.19469261         -3.99389916         -3.13993020         -2.20079346
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	4        	-9.52729798         -6.43629157         -5.29331202         -4.09100642         -3.23398597         -2.20230560
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	4        	-9.72028762         -6.53203056         -5.39197990         -4.18825707         -3.32830773         -2.20372283
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	4        	-9.91357189         -6.62793103         -5.49069376         -4.28564086         -3.42287813         -2.20505290
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	4        	-10.10713258         -6.72398408         -5.58945128         -4.38314850         -3.51768130         -2.20630278
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	4        	-10.30095295         -6.82018143         -5.68825029         -4.48077152         -3.61270266         -2.20747877
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	4        	-10.49501759         -6.91651539         -5.78708876         -4.57850220         -3.70792883         -2.20858656
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	4        	-10.68931227         -7.01297881         -5.88596478         -4.67633347         -3.80334749         -2.20963131
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	4        	-10.88382388         -7.10956500         -5.98487658         -4.77425888         -3.89894729         -2.21061771
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	4        	-11.07854024         -7.20626775         -6.08382249         -4.87227249         -3.99471774         -2.21155000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	4        	-11.27345009         -7.30308123         -6.18280094         -4.97036887         -4.09064916         -2.21243207
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	4        	-11.46854300         -7.40000000         -6.28181044         -5.06854300         -4.18673255         -2.21326745
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	4        	-11.66380923         -7.49701898         -6.38084962         -5.16679026         -4.28295961         -2.21405936
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	4        	-11.85923977         -7.59413338         -6.47991717         -5.26510638         -4.37932260         -2.21481078
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	4        	-12.05482618         -7.69133874         -6.57901185         -5.36348744         -4.47581434         -2.21552441
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	4        	-12.25056062         -7.78863085         -6.67813250         -5.46192977         -4.57242812         -2.21620273
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	5        	-4.00000000         -4.00000000         -2.00000000         -2.00000000         -2.00000000         -2.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	5        	-4.00437619         -4.00437557         -2.08399835         -2.08399772         -2.03204748         -2.03204686
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	5        	-4.01752401         -4.01750421         -2.17390025         -2.17388045         -2.06617013         -2.06615033
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	5        	-4.03952091         -4.03937245         -2.26925148         -2.26910302         -2.10215371         -2.10200525
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	5        	-4.07053483         -4.06992043         -2.36958789         -2.36897349         -2.13997282         -2.13935842
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	5        	-4.11084914         -4.10901808         -2.47445218         -2.47262112         -2.17983039         -2.17799932
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	5        	-4.16087419         -4.15645148         -2.58340625         -2.57898354         -2.22217508         -2.21775236
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	5        	-4.22113911         -4.21192043         -2.69603944         -2.68682077         -2.26768917         -2.25847049
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	5        	-4.29225654         -4.27504604         -2.81197311         -2.79476262         -2.31724057         -2.30003007
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	5        	-4.37485623         -4.34538593         -2.93086262         -2.90139232         -2.37179697         -2.34232667
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	5        	-4.46949034         -4.42245365         -3.05239723         -3.00536053         -2.43230838         -2.38527168
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	5        	-4.57652635         -4.50573912         -3.17629875         -3.10551152         -2.49957678         -2.42878955
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	5        	-4.69605446         -4.59472738         -3.30231937         -3.20099230         -2.57414269         -2.47281562
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	5        	-4.82783880         -4.68891406         -3.43023913         -3.29131438         -2.65621900         -2.51729425
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	5        	-4.97132812         -4.78781698         -3.55986319         -3.37635206         -2.74568853         -2.56217740
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	5        	-5.12571940         -4.89098398         -3.69101916         -3.45628375         -2.84215881         -2.60742339
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	5        	-5.29005054         -4.99799727         -3.82355458         -3.53150131         -2.94504919         -2.65299593
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	5        	-5.46329429         -5.10847530         -3.95733457         -3.60251559         -3.05368226         -2.69886328
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	5        	-5.64443428         -5.22207264         -4.09223973         -3.66987809         -3.16735923         -2.74499759
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	5        	-5.83251596         -5.33847855         -4.22816423         -3.73412682         -3.28541176         -2.79137436
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	5        	-6.02667418         -5.45741483         -4.36501413         -3.79575478         -3.40723125         -2.83797189
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	5        	-6.22614326         -5.57863315         -4.50270595         -3.85519584         -3.53228112         -2.88477100
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	5        	-6.43025587         -5.70191229         -4.64116534         -3.91282175         -3.66009816         -2.93175458
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	5        	-6.63843576         -5.82705540         -4.78032595         -3.96894559         -3.79028775         -3.00810981
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	5        	-6.85018777         -5.95388735         -4.92012848         -4.02382806         -3.92251624         -3.13005929
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	5        	-7.06508727         -6.08225229         -5.06051982         -4.07768484         -4.05650262         -3.25456745
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	5        	-7.28277002         -6.21201140         -5.20145231         -4.19201043         -4.13069369         -3.38131772
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	5        	-7.50292311         -6.34304096         -5.34288306         -4.32884061         -4.18300091         -3.51004005
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	5        	-7.72527702         -6.47523048         -5.48477345         -4.46682512         -4.23472691         -3.64050357
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	5        	-7.94959890         -6.60848121         -5.62708860         -4.60582179         -4.28597090         -3.77251030
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	5        	-8.17568688         -6.74270467         -5.76979694         -4.74570982         -4.33681473         -3.90588994
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	5        	-8.40336529         -6.87782150         -5.91286989         -4.88638621         -4.38732609         -4.04049541
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	5        	-8.63248072         -7.01376036         -6.05628145         -5.02776276         -4.43756109         -4.17619927
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	5        	-8.86289866         -7.15045701         -6.20000800         -5.16976362         -4.48756636         -4.31289066
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	5        	-9.09450076         -7.28785349         -6.34402799         -5.31232330         -4.53738072         -4.45047277
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	5        	-9.32718251         -7.42589738         -6.48832175         -5.45538500         -4.58886076         -4.58703662
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	5        	-9.56085133         -7.56454123         -6.63287130         -5.59889928         -4.72798003         -4.63656120
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	5        	-9.79542488         -7.70374199         -6.77766014         -5.74282291         -4.86776474         -4.68597725
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	5        	-10.03082972         -7.84346049         -6.92267316         -5.88711795         -5.00815657         -4.73530392
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	5        	-10.26700018         -7.98366109         -7.06789644         -6.03175100         -5.14910374         -4.78455735
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	5        	-10.50387730         -8.12431125         -7.21331719         -6.17669253         -5.29056010         -4.83375115
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	5        	-10.74140804         -8.26538125         -7.35892362         -6.32191633         -5.43248442         -4.88289683
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	5        	-10.97954456         -8.40684388         -7.50470482         -6.46739911         -5.57483974         -4.98484613
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	5        	-11.21824357         -8.54867417         -7.65065072         -6.61312005         -5.71759284         -5.12469292
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	5        	-11.45746582         -8.69084920         -7.79675201         -6.75906052         -5.86071381         -5.26502193
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	5        	-11.69717565         -8.83334788         -7.94300004         -6.90520379         -6.00417561         -5.40579963
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	5        	-11.93734056         -8.97615079         -8.08938677         -7.05153481         -6.14795379         -5.54699553
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	5        	-12.17793090         -9.11923999         -8.23590477         -7.19803997         -6.29202614         -5.68858185
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	5        	-12.41891954         -9.26259894         -8.38254708         -7.34470695         -6.43637246         -5.83053319
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	5        	-12.66028161         -9.40621228         -8.52930724         -7.49152460         -6.58097437         -5.97282633
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	5        	-12.90199428         -9.55006584         -8.67617923         -7.63848277         -6.72581505         -6.11543996
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	5        	-13.14403655         -9.69414642         -8.82315740         -7.78557218         -6.87087914         -6.25835450
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	5        	-13.38638907         -9.83844179         -8.97023651         -7.93278439         -7.01615255         -6.40155195
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	5        	-13.62903397         -9.98294057         -9.11741163         -8.08011167         -7.16162234         -6.54501570
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	5        	-13.87195475         -10.12763215         -9.26467814         -8.22754692         -7.30727661         -6.68873043
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	5        	-14.11513612         -10.27250665         -9.41203173         -8.37508362         -7.45310439         -6.83268197
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	5        	-14.35856389         -10.41755484         -9.55946832         -8.52271577         -7.59909557         -6.97685717
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	5        	-14.60222491         -10.56276810         -9.70698412         -8.67043785         -7.74524079         -7.12124387
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	5        	-14.84610694         -10.70813837         -9.85457553         -8.81824474         -7.89153141         -7.26583077
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	5        	-15.09019858         -10.85365809         -10.00223919         -8.96613173         -8.03795939         -7.41060733
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	5        	-15.33448920         -10.99932019         -10.14997191         -9.11409444         -8.18451729         -7.55556378
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	6        	-5.00000000         -5.00000000         -3.00000000         -3.00000000         -3.00000000         -3.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	6        	-5.00500099         -5.00500096         -3.09072031         -3.09072028         -3.05241861         -3.05241858
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	6        	-5.02001666         -5.02001468         -3.18946720         -3.18946522         -3.10935721         -3.10935523
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	6        	-5.04509078         -5.04506851         -3.29589530         -3.29587303         -3.17037314         -3.17035087
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	6        	-5.08031449         -5.08019161         -3.40961738         -3.40949450         -3.23510132         -3.23497844
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	6        	-5.12585091         -5.12539315         -3.53021042         -3.52975265         -3.30330497         -3.30284720
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	6        	-5.18196378         -5.18063700         -3.65722566         -3.65589887         -3.37493092         -3.37360414
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	6        	-5.24904387         -5.24581766         -3.79020068         -3.78697447         -3.45015942         -3.44693321
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	6        	-5.32762382         -5.32074198         -3.92867138         -3.92178954         -3.52943528         -3.52255343
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	6        	-5.41836886         -5.40512016         -4.07218264         -4.05893394         -3.61346481         -3.60021611
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	6        	-5.52202957         -5.49856769         -4.22029687         -4.19683498         -3.70316372         -3.67970184
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	6        	-5.63934746         -5.60061718         -4.37260024         -4.33386996         -3.79954764         -3.76081735
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	6        	-5.77091916         -5.71073765         -4.52870666         -4.46852516         -3.90357411         -3.84339260
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	6        	-5.91704904         -5.82835728         -4.68825984         -4.59956808         -4.01596968         -3.92727792
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	6        	-6.07763908         -5.95288630         -4.85093382         -4.72618104         -4.13709430         -4.01234152
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	6        	-6.25215945         -6.08373729         -5.01643241         -4.84801025         -4.26688941         -4.09846725
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	6        	-6.43970973         -6.22034122         -5.18448786         -4.96511935         -4.40492107         -4.18555256
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	6        	-6.63914169         -6.36215906         -5.35485900         -5.07787636         -4.55048945         -4.27350681
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	6        	-6.84919631         -6.50868895         -5.52732923         -5.18682187         -4.70275705         -4.36224969
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	6        	-7.06861791         -6.65946998         -5.70170431         -5.29255638         -4.86085785         -4.45170992
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	6        	-7.29622981         -6.81408309         -5.87781026         -5.39566354         -5.02397082         -4.54182410
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	6        	-7.53097354         -6.97215019         -6.05549129         -5.49666793         -5.19135910         -4.63253574
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	6        	-7.77192144         -7.13333199         -6.23460786         -5.59601841         -5.36238381         -4.72379436
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	6        	-8.01827321         -7.29732520         -6.41503498         -5.69408696         -5.53650279         -4.81555478
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	6        	-8.26934435         -7.46385931         -6.59666055         -5.79117550         -5.71326151         -4.94767991
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	6        	-8.52455162         -7.63269338         -6.77938395         -5.89228122         -5.88752570         -5.11825385
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	6        	-8.78339840         -7.80361293         -6.96311476         -6.07324695         -5.98332929         -5.29155614
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	6        	-9.04546116         -7.97642700         -7.14777159         -6.25589648         -6.07873743         -5.46723762
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	6        	-9.31037768         -8.15096541         -7.33328111         -6.44001096         -6.17386885         -5.64500304
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	6        	-9.57783708         -8.32707642         -7.51957710         -6.62540696         -6.26881643         -5.82460198
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	6        	-9.84757147         -8.50462447         -7.70659970         -6.81193003         -6.36365270         -6.00582112
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	6        	-10.11934899         -8.68348833         -7.89429470         -6.99944948         -6.45843404         -6.18847802
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	6        	-10.39296812         -8.86355935         -8.08261293         -7.18785411         -6.55320416         -6.37241597
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	6        	-10.66825296         -9.04474002         -8.27150970         -7.37704881         -6.64799676         -6.55749974
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	6        	-10.94504934         -9.22694264         -8.46094435         -7.56695180         -6.74361213         -6.74283765
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	6        	-11.22322159         -9.41008818         -8.65087982         -7.75749240         -6.93065118         -6.83774640
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	6        	-11.50264985         -9.59410530         -8.84128224         -7.94860923         -7.11852776         -6.93273769
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	6        	-11.78322786         -9.77892948         -9.03212067         -8.14024872         -7.30716370         -7.02782229
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	6        	-12.06486107         -9.96450223         -9.22336674         -8.33236391         -7.49649016         -7.12300791
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	6        	-12.34746507         -10.15077044         -9.41499445         -8.52491344         -7.68644630         -7.21829983
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	6        	-12.63096428         -10.33768580         -9.60697989         -8.71786075         -7.87697819         -7.31370142
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	6        	-12.91529080         -10.52520429         -9.79930107         -8.91117340         -8.06803781         -7.40921456
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	6        	-13.20038348         -10.71328571         -9.99193771         -9.10482248         -8.25958232         -7.58265877
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	6        	-13.48618707         -10.90189328         -10.18487112         -9.29878213         -8.45157338         -7.77169874
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	6        	-13.77265156         -11.09099333         -10.37808402         -9.49302918         -8.64397655         -7.96128062
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	6        	-14.05973153         -11.28055494         -10.57156041         -9.68754276         -8.83676085         -8.15136536
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	6        	-14.34738566         -11.47054970         -10.76528548         -9.88230404         -9.02989830         -8.34191759
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	6        	-14.63557628         -11.66095145         -10.95924548         -10.07729598         -9.22336358         -8.53290512
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	6        	-14.92426893         -11.85173607         -11.15342764         -10.27250311         -9.41713376         -8.72429868
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	6        	-15.21343210         -12.04288129         -11.34782010         -10.46791136         -9.61118796         -8.91607154
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	6        	-15.50303683         -12.23436651         -11.54241181         -10.66350789         -9.80550717         -9.10819926
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	6        	-15.79305654         -12.42617266         -11.73719244         -10.85928097         -10.00007405         -9.30065946
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	6        	-16.08346673         -12.61828205         -11.93215241         -11.05521983         -10.19487272         -9.49343158
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	6        	-16.37424481         -12.81067827         -12.12728271         -11.25131461         -10.38988865         -9.68649673
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	6        	-16.66536990         -13.00334605         -12.32257496         -11.44755623         -10.58510846         -9.87983751
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	6        	-16.95682268         -13.19627118         -12.51802128         -11.64393631         -10.78051989         -10.07343786
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	6        	-17.24858524         -13.38944042         -12.71361432         -11.84044712         -10.97611162         -10.26728294
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	6        	-17.54064098         -13.58284141         -12.90934716         -12.03708151         -11.17187320         -10.46135904
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	6        	-17.83297445         -13.77646262         -13.10521332         -12.23383286         -11.36779499         -10.65565341
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	6        	-18.12557126         -13.97029324         -13.30120670         -12.43069502         -11.56386804         -10.85015426
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	6        	-18.41841803         -14.16432318         -13.49732156         -12.62766226         -11.76008409         -11.04485062
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	7        	-6.00000000         -6.00000000         -4.00000000         -4.00000000         -4.00000000         -4.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	7        	-6.00562608         -6.00562607         -4.09508131         -4.09508131         -4.06593080         -4.06593080
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	7        	-6.02251734         -6.02251714         -4.19998126         -4.19998106         -4.13870746         -4.13870726
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	7        	-6.05071427         -6.05071093         -4.31445086         -4.31444752         -4.21784961         -4.21784627
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	7        	-6.09029060         -6.09026602         -4.43820195         -4.43817737         -4.30288795         -4.30286337
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	7        	-6.14136636         -6.14125192         -4.57090066         -4.57078622         -4.39339616         -4.39328172
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	7        	-6.20412972         -6.20373169         -4.71216571         -4.71176768         -4.48903823         -4.48864019
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	7        	-6.27886696         -6.27773780         -4.86157176         -4.86044261         -4.58962908         -4.58849992
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	7        	-6.36599651         -6.36324396         -5.01865718         -5.01590462         -4.69520151         -4.69244895
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	7        	-6.46609798         -6.46013750         -5.18293477         -5.17697429         -4.80606554         -4.80010506
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	7        	-6.57992044         -6.56819811         -5.35390398         -5.34218165         -4.92283928         -4.91111695
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	7        	-6.70834796         -6.68708738         -5.53106282         -5.50980224         -5.04642483         -5.02516425
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	7        	-6.85230025         -6.81635175         -5.71391860         -5.67797010         -5.17790502         -5.14195652
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	7        	-7.01256315         -6.95543799         -5.90199652         -5.84487136         -5.31835682         -5.26123166
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	7        	-7.18958164         -7.10371778         -6.09484616         -6.00898229         -5.46861782         -5.38275395
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	7        	-7.38328925         -7.26051655         -6.29204568         -6.16927298         -5.62908460         -5.50631189
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	7        	-7.59305178         -7.42514194         -6.49320416         -6.32529432         -5.79962585         -5.63171601
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	7        	-7.81775061         -7.59690840         -6.69796234         -6.47712013         -5.97963891         -5.75879670
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	7        	-8.05595929         -7.77515614         -6.90599228         -6.62518913         -6.16820533         -5.88740218
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	7        	-8.30613570         -7.95926426         -7.11699609         -6.77012465         -6.36426807         -6.01739663
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	7        	-8.56677223         -8.14865838         -7.33070426         -6.91259040         -6.56677223         -6.14865838
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	7        	-8.83648581         -8.34281405         -7.54687356         -7.05320180         -6.77475017         -6.28107841
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	7        	-9.11405674         -8.54125703         -7.76528491         -7.19248521         -6.98735861         -6.41455890
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	7        	-9.39843426         -8.74356144         -7.98574121         -7.33086838         -7.20388480         -6.54901198
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	7        	-9.68872448         -8.94934664         -8.20806516         -7.46868732         -7.42373642         -6.70828456
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	7        	-9.98417114         -9.15827350         -8.43209735         -7.64642513         -7.60619972         -6.92393155
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	7        	-10.28413510         -9.37004039         -8.65769436         -7.87154917         -7.74359965         -7.14282753
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	7        	-10.58807533         -9.58437926         -8.88472706         -8.09877749         -7.88103100         -7.36453880
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	7        	-10.89553221         -9.80105184         -9.11307912         -8.32783615         -8.01859876         -7.58870236
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	7        	-11.20611368         -10.01984627         -9.34264559         -8.55849732         -8.15637818         -7.81501316
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	7        	-11.51948366         -10.24057389         -9.57333168         -8.79057024         -8.29442191         -8.04321358
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	7        	-11.83535266         -10.46306655         -9.80505166         -9.02389424         -8.43276556         -8.27308496
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	7        	-12.15347008         -10.68717406         -10.03772790         -9.25833300         -8.57143188         -8.50444076
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	7        	-12.47361796         -10.91276208         -10.27128996         -9.49377017         -8.73712098         -8.71043407
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	7        	-12.79560584         -11.13971016         -10.50567386         -9.73010576         -8.97098771         -8.84977818
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	7        	-13.11926656         -11.36791017         -10.74082139         -9.96725337         -9.20592152         -8.98946500
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	7        	-13.44445279         -11.59726476         -10.97667951         -10.20513785         -9.44181849         -9.12949148
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	7        	-13.77103418         -11.82768616         -11.21319979         -10.44369355         -9.67858778         -9.26985178
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	7        	-14.09889494         -12.05909506         -11.45033798         -10.68286277         -9.91614966         -9.41053810
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	7        	-14.42793189         -12.29141963         -11.68805356         -10.92259458         -10.15443390         -9.55154129
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	7        	-14.75805274         -12.52459472         -11.92630937         -11.16284381         -10.39337833         -9.71730827
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	7        	-15.08917471         -12.75856109         -12.16507130         -11.40357024         -10.63292779         -9.95411588
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	7        	-15.42122329         -12.99326480         -12.40430796         -11.64473792         -10.87303313         -10.19162459
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	7        	-15.75413127         -13.22865663         -12.64399047         -11.88631459         -11.11365043         -10.42978007
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	7        	-16.08783785         -13.46469157         -12.88409218         -12.12827119         -11.35474029         -10.66853346
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	7        	-16.42228784         -13.70132841         -13.12458848         -12.37058148         -11.59626732         -10.90784067
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	7        	-16.75743111         -13.93852936         -13.36545660         -12.61322168         -11.83819958         -11.14766185
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	7        	-17.09322192         -14.17625968         -13.60667549         -12.85617020         -12.08050822         -11.38796087
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	7        	-17.42961855         -14.41448740         -13.84822558         -13.09940733         -12.32316707         -11.62870490
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	7        	-17.76658276         -14.65318305         -14.09008876         -13.34291511         -12.56615237         -11.86986406
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	7        	-18.10407953         -14.89231942         -14.33224816         -13.58667707         -12.80944246         -12.11141105
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	7        	-18.44207665         -15.13187138         -14.57468809         -13.83067810         -13.05301760         -12.35332095
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	7        	-18.78054449         -15.37181562         -14.81739394         -14.07490430         -13.29685972         -12.59557089
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	7        	-19.11945572         -15.61213056         -15.06035208         -14.31934287         -13.54095227         -12.83813990
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	7        	-19.45878510         -15.85279615         -15.30354978         -14.56398200         -13.78528004         -13.08100869
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	7        	-19.79850928         -16.09379376         -15.54697515         -14.80881074         -14.02982905         -13.32415949
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	7        	-20.13860664         -16.33510604         -15.79061706         -15.05381896         -14.27458642         -13.56757592
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	7        	-20.47905709         -16.57671684         -16.03446509         -15.29899727         -14.51954026         -13.81124283
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	7        	-20.81984198         -16.81861108         -16.27850945         -15.54433693         -14.76467956         -14.05514620
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	7        	-21.16094397         -17.06077466         -16.52274099         -15.78982978         -15.00999415         -14.29927304
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	7        	-21.50234688         -17.30319443         -16.76715108         -16.03546826         -15.25547458         -14.54361129
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	8        	-7.00000000         -7.00000000         -5.00000000         -5.00000000         -5.00000000         -5.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	8        	-7.00625117         -7.00625117         -5.09815383         -5.09815383         -5.07532880         -5.07532880
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	8        	-7.02501881         -7.02501880         -5.20772968         -5.20772966         -5.15960798         -5.15960796
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	8        	-7.05634580         -7.05634530         -5.32854966         -5.32854916         -5.25239065         -5.25239015
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	8        	-7.10030602         -7.10030111         -5.46040912         -5.46040421         -5.35321021         -5.35320530
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	8        	-7.15701046         -7.15698185         -5.60306518         -5.60303657         -5.46159427         -5.46156566
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	8        	-7.22662000         -7.22650059         -5.75622663         -5.75610722         -5.57709248         -5.57697307
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	8        	-7.30936761         -7.30897241         -5.91954716         -5.91915195         -5.69932243         -5.69892723
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	8        	-7.40559134         -7.40449034         -6.09262342         -6.09152242         -5.82803521         -5.82693420
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	8        	-7.51577570         -7.51309364         -6.27499837         -6.27231631         -5.96319605         -5.96051399
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	8        	-7.64059255         -7.63473266         -6.46616949         -6.46030960         -6.10506669         -6.09920680
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	8        	-7.78092203         -7.76923682         -6.66560069         -6.65391548         -6.25426297         -6.24257776
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	8        	-7.93782123         -7.91629317         -6.87273603         -6.85120797         -6.41174803         -6.39021997
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	8        	-8.11240327         -8.07544114         -7.08701367         -7.05005154         -6.57871827         -6.54175614
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	8        	-8.30561097         -8.24608496         -7.30787851         -7.24835250         -6.75636506         -6.69683905
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	8        	-8.51793153         -8.42752086         -7.53479276         -7.44438209         -6.94556174         -6.85515107
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	8        	-8.74917102         -8.61897299         -7.76724394         -7.63704591         -7.14660101         -7.01640298
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	8        	-8.99840945         -8.81963101         -8.00475035         -7.82597191         -7.35911084         -7.18033240
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	8        	-9.26415765         -9.02868387         -8.24686421         -8.01139043         -7.58217569         -7.34670191
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	8        	-9.54462146         -9.24534643         -8.49317304         -8.19389801         -7.81457214         -7.51529711
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	8        	-9.83795145         -9.46887801         -8.74329949         -8.37422605         -8.05499802         -7.68592459
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	8        	-10.14241091         -9.69859340         -8.99690022         -8.55308271         -8.30222750         -7.85840998
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	8        	-10.45645780         -9.93386793         -9.25366412         -8.73107425         -8.55518602         -8.03259615
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	8        	-10.77876614         -10.17413815         -9.51331004         -8.90868205         -8.81296941         -8.20834142
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	8        	-11.10821467         -10.41889959         -9.77558446         -9.08626938         -9.07483311         -8.41351901
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	8        	-11.44386189         -10.66770281         -10.04025899         -9.34016972         -9.26409991         -8.67326140
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	8        	-11.78491823         -10.92014868         -10.30712804         -9.60848462         -9.44235849         -8.93680885
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	8        	-12.13071999         -11.17588331         -10.57600651         -9.87937376         -9.62116983         -9.20363901
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	8        	-12.48070694         -11.43459308         -10.84672774         -10.15250522         -9.80061387         -9.47331864
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	8        	-12.83440378         -11.69599998         -11.11914153         -10.42760431         -9.98073773         -9.74548654
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	8        	-13.19140495         -11.95985736         -11.39311242         -10.70444193         -10.16156483         -10.01983979
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	8        	-13.55136252         -12.22594609         -11.66851810         -10.98282538         -10.34310167         -10.29612279
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	8        	-13.91397630         -12.49407117         -11.94524799         -11.26259135         -10.57411854         -10.52534286
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	8        	-14.27898591         -12.76405871         -12.22320199         -11.54360031         -10.85364173         -10.70827480
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	8        	-14.64616440         -13.03575340         -12.50228936         -11.82573222         -11.13453320         -10.89187837
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	8        	-15.01531298         -13.30901618         -12.78242769         -12.10888308         -11.41665548         -11.07613089
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	8        	-15.38625676         -13.58372226         -13.06354207         -12.39296223         -11.69988921         -11.26100757
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	8        	-15.75884123         -13.85975944         -13.34556427         -12.67789017         -11.98413029         -11.44648248
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	8        	-16.13292935         -14.13702662         -13.62843205         -12.96359679         -12.26928746         -11.63252931
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	8        	-16.50839910         -14.41543247         -13.91208854         -13.25001999         -12.55528037         -11.90900717
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	8        	-16.88514149         -14.69489435         -14.19648172         -13.53710449         -12.84203802         -12.19356288
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	8        	-17.26305882         -14.97533730         -14.48156393         -13.82480086         -13.12949738         -12.47896341
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	8        	-17.64206326         -15.25669319         -14.76729141         -14.11306473         -13.41760231         -12.76514083
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	8        	-18.02207559         -15.53890000         -15.05362394         -14.40185615         -13.70630264         -13.05203436
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	8        	-18.40302422         -15.82190110         -15.34052451         -14.69113899         -13.99555339         -13.33958938
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	8        	-18.78484422         -16.10564478         -15.62795900         -14.98088052         -14.28531407         -13.62775673
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	8        	-19.16747660         -16.39008365         -15.91589591         -15.27105095         -14.57554817         -13.91649200
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	8        	-19.55086761         -16.67517424         -16.20430615         -15.56162313         -14.86622267         -14.20575501
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	8        	-19.93496819         -16.96087662         -16.49316275         -15.85257223         -15.15730760         -14.49550927
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	8        	-20.31973345         -17.24715402         -16.78244075         -16.14387550         -15.44877570         -14.78572161
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	8        	-20.70512224         -17.53397254         -17.07211698         -16.43551204         -15.74060215         -15.07636179
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	8        	-21.09109677         -17.82130089         -17.36216992         -16.72746262         -16.03276425         -15.36740217
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	8        	-21.47762226         -18.10911013         -17.65257954         -17.01970951         -16.32524122         -15.65881745
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	8        	-21.86466664         -18.39737345         -17.94332719         -17.31223630         -16.61801400         -15.95058445
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	8        	-22.25220031         -18.68606602         -18.23439548         -17.60502784         -16.91106507         -16.24268184
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	8        	-22.64019590         -18.97516474         -18.52576819         -17.89807004         -17.20437829         -16.53509000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	8        	-23.02862804         -19.26464816         -18.81743015         -18.19134985         -17.49793877         -16.82779085
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	8        	-23.41747319         -19.55449630         -19.10936719         -18.48485510         -17.79173273         -17.12076766
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	8        	-23.80670952         -19.84469053         -19.40156601         -18.77857447         -18.08574746         -17.41400500
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	8        	-24.19631668         -20.13521348         -19.69401417         -19.07249740         -18.37997111         -17.70748853
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	8        	-24.58627573         -20.42604891         -19.98670000         -19.36661403         -18.67439274         -18.00120498
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	9        	-8.00000000         -8.00000000         -6.00000000         -6.00000000         -6.00000000         -6.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	9        	-8.00687627         -8.00687627         -6.10046657         -6.10046657         -6.08215737         -6.08215737
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	9        	-8.02752037         -8.02752037         -6.21384650         -6.21384650         -6.17517365         -6.17517364
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	9        	-8.06197854         -8.06197847         -6.34001344         -6.34001336         -6.27865701         -6.27865693
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	9        	-8.11032931         -8.11032833         -6.47882705         -6.47882607         -6.39218512         -6.39218414
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	9        	-8.17268675         -8.17267960         -6.63012129         -6.63011413         -6.51530726         -6.51530010
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	9        	-8.24920773         -8.24917191         -6.79369123         -6.79365540         -6.64755564         -6.64751981
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	9        	-8.34010627         -8.33996795         -6.96928017         -6.96914184         -6.78847192         -6.78833360
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	9        	-8.44567873         -8.44523833         -7.15656885         -7.15612845         -6.93765505         -6.93721465
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	9        	-8.56634261         -8.56513570         -7.35516906         -7.35396215         -7.09483483         -7.09362792
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	9        	-8.70268777         -8.69975801         -7.56462305         -7.56169329         -7.25996912         -7.25703936
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	9        	-8.85553000         -8.84910470         -7.78440929         -7.77798399         -7.43334994         -7.42692464
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	9        	-9.02594024         -9.01303371         -8.01395378         -8.00104724         -7.61568317         -7.60277664
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	9        	-9.21520114         -9.19122961         -8.25264513         -8.22867360         -7.80808287         -7.78411134
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	9        	-9.42463249         -9.38319199         -8.49985150         -8.45841100         -8.01191260         -7.97047210
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	9        	-9.65526622         -9.58824789         -8.75493713         -8.68791880         -8.22845062         -8.16143230
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	9        	-9.90746195         -9.80558529         -9.01727691         -8.91540025         -8.45847321         -8.35659655
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	9        	-10.18066216         -10.03429932         -9.28626826         -9.13990542         -8.70196372         -8.55560089
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	9        	-10.47344136         -10.27344136         -9.56133970         -9.36133970         -8.95811201         -8.75811201
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	9        	-10.78380697         -10.52206267         -9.84195650         -9.58021220         -9.22557029         -8.96382599
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	9        	-11.10956559         -10.77924820         -10.12762364         -9.79730625         -9.50278389         -9.17246650
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	9        	-11.44860041         -11.04413927         -10.41788676         -10.01342562         -9.78824410         -9.38378296
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	9        	-11.79901778         -11.31594637         -10.71233151         -10.22926010         -10.08061984         -9.59754843
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	9        	-12.15919319         -11.59395423         -11.01058190         -10.44534294         -10.37879657         -9.81355760
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	9        	-12.52776194         -11.87752155         -11.31229794         -10.68186523         -10.66205755         -10.07213447
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	9        	-12.90358707         -12.16607735         -11.61717294         -10.98909201         -10.87966322         -10.37514026
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	9        	-13.28572228         -12.45911553         -11.92493071         -11.29988489         -11.09832396         -10.68253902
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	9        	-13.67337748         -12.75618857         -12.23532267         -11.61376395         -11.31813376         -10.99371691
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	9        	-14.06588962         -13.05690117         -12.54812521         -11.93033702         -11.53913676         -11.30816883
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	9        	-14.46269884         -13.36090414         -12.86313710         -12.24928068         -11.76134240         -11.62547647
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	9        	-14.86332939         -13.66788880         -13.18017713         -12.57032554         -11.98473653         -11.94529090
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	9        	-15.26737440         -13.97758184         -13.49908200         -12.89324509         -12.26731900         -12.20928945
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	9        	-15.67448381         -14.28974091         -13.81970441         -13.21784710         -12.59131275         -12.43496152
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	9        	-16.08435470         -14.60415065         -14.14191128         -13.54396700         -12.91706091         -12.66170723
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	9        	-16.49672351         -14.92061925         -14.46558222         -13.87146282         -13.24438238         -12.88947796
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	9        	-16.91135977         -15.23897550         -14.79060820         -14.20021115         -13.57312094         -13.11822394
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	9        	-17.32806098         -15.55906623         -15.11689027         -14.53010406         -13.90314110         -13.34789552
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	9        	-17.74664846         -15.88075404         -15.44433854         -14.86104652         -14.23432467         -13.63077731
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	9        	-18.16696388         -16.20391544         -15.77287118         -15.19295446         -14.56656809         -13.96125006
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	9        	-18.58886640         -16.52843913         -16.10241360         -15.52575310         -14.89978013         -14.29284267
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	9        	-19.01223030         -16.85422462         -16.43289769         -15.85937561         -15.23388011         -14.62545979
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	9        	-19.43694298         -17.18118094         -16.76426118         -16.19376206         -15.56879639         -14.95901672
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	9        	-19.86290325         -17.50922555         -17.09644702         -16.52885847         -15.90446507         -15.29343791
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	9        	-20.29001993         -17.83828346         -17.42940287         -16.86461604         -16.24082899         -15.62865582
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	9        	-20.71821061         -18.16828634         -17.76308066         -17.20099055         -16.57783682         -15.96460982
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	9        	-21.14740061         -18.49917182         -18.09743615         -17.53794178         -16.91544232         -16.30124536
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	9        	-21.57752210         -18.83088287         -18.43242856         -17.87543304         -17.25360372         -16.63851319
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	9        	-22.00851330         -19.16336726         -18.76802029         -18.21343080         -17.59228317         -16.97636877
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	9        	-22.44031783         -19.49657704         -19.10417657         -18.55190433         -17.93144628         -17.31477166
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	9        	-22.87288414         -19.83046811         -19.44086524         -18.89082540         -18.27106173         -17.65368512
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	9        	-23.30616496         -20.16499990         -19.77805649         -19.23016803         -18.61110093         -17.99307563
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	9        	-23.74011689         -20.50013496         -20.11572269         -19.56990826         -18.95153771         -18.33291260
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	9        	-24.17470003         -20.83583871         -20.45383814         -19.91002395         -19.29234805         -18.67316801
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	9        	-24.60987756         -21.17207913         -20.79237896         -20.25049461         -19.63350992         -19.01381616
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	9        	-25.04561553         -21.50882658         -21.13132292         -20.59130123         -19.97500299         -19.35483345
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	9        	-25.48188251         -21.84605356         -21.47064927         -20.93242616         -20.31680853         -19.69619813
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	9        	-25.91864943         -22.18373450         -21.81033867         -21.27385300         -20.65890922         -20.03789018
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	9        	-26.35588930         -22.52184563         -22.15037304         -21.61556645         -21.00128904         -20.37989106
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	9        	-26.79357706         -22.86036480         -22.49073546         -21.95755227         -21.34393311         -20.72218364
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	9        	-27.23168939         -23.19927136         -22.83141012         -22.29979713         -21.68682764         -21.06475206
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	9        	-27.67020458         -23.53854602         -23.17238218         -22.64228858         -22.02995979         -21.40758158
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	10        	-9.00000000         -9.00000000         -7.00000000         -7.00000000         -7.00000000         -7.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	10        	-9.00750137         -9.00750137         -7.10230337         -7.10230337         -7.08731450         -7.08731450
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	10        	-9.03002194         -9.03002194         -7.21894158         -7.21894158         -7.18724464         -7.18724464
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	10        	-9.06761147         -9.06761146         -7.34982643         -7.34982642         -7.29945608         -7.29945607
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	10        	-9.12035417         -9.12035397         -7.49486670         -7.49486651         -7.42358332         -7.42358312
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	10        	-9.18837108         -9.18836929         -7.65395786         -7.65395608         -7.55922497         -7.55922318
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	10        	-9.27182471         -9.27181396         -7.82696920         -7.82695846         -7.70594421         -7.70593346
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	10        	-9.37092835         -9.37087993         -8.01372876         -8.01368035         -7.86327929         -7.86323088
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	10        	-9.48596380         -9.48578764         -8.21400741         -8.21383125         -8.03077151         -8.03059535
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	10        	-9.61731247         -9.61676936         -8.42750430         -8.42696119         -8.20801933         -8.20747622
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	10        	-9.76550396         -9.76403910         -8.65383644         -8.65237159         -8.39476613         -8.39330127
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	10        	-9.93128152         -9.92774790         -8.89253469         -8.88900107         -8.59102063         -8.58748701
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	10        	-10.11566987         -10.10792849         -9.14304753         -9.13530615         -8.79719070         -8.78944932
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	10        	-10.32000426         -10.30443967         -9.40475234         -9.38918775         -9.01417803         -8.99861344
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	10        	-10.54584437         -10.51692486         -9.67697251         -9.64805301         -9.24334195         -9.21442244
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	10        	-10.79468803         -10.74479775         -9.95899779         -9.90910751         -9.48623436         -9.43634408
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	10        	-11.06749094         -10.98726068         -10.25010506         -10.16987480         -9.74410582         -9.66387556
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	10        	-11.36419577         -11.24335087         -10.54957729         -10.42873239         -10.01739152         -9.89654662
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	10        	-11.68357878         -11.51200188         -10.85671924         -10.68514234         -10.30549793         -10.13392103
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	10        	-12.02352039         -11.79210641         -11.17086909         -10.93945512         -10.60701080         -10.37559682
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	10        	-12.38149000         -12.08256963         -11.49140626         -11.19248589         -10.92012590         -10.62120553
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	10        	-12.75496671         -12.38234799         -11.81775578         -11.44513706         -11.24302956         -10.87041084
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	10        	-13.14167687         -12.69047345         -12.14938986         -11.69818645         -11.57411013         -11.12290671
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	10        	-13.53967546         -13.00606527         -12.48582755         -11.95221736         -11.91202548         -11.37841529
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	10        	-13.94734002         -13.32833294         -12.82663282         -12.25569176         -12.20762575         -11.69298002
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	10        	-14.36332954         -13.65657338         -13.17141193         -12.60424295         -12.46465578         -12.03857136
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	10        	-14.78653610         -13.99016482         -13.51981020         -12.95698641         -12.72343892         -12.38917141
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	10        	-15.21604056         -14.32855918         -13.87150868         -13.31336413         -12.98402730         -12.74407300
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	10        	-15.65107553         -14.67127404         -14.22622075         -13.67292192         -13.24641925         -13.10269822
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	10        	-16.09099581         -15.01788477         -14.58368892         -14.03528585         -13.51057788         -13.46457105
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	10        	-16.53525495         -15.36801737         -14.94368177         -14.40014449         -13.82929603         -13.77644420
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	10        	-16.98338694         -15.72134189         -15.30599122         -14.76723561         -14.19654199         -14.04394616
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	10        	-17.43499173         -16.07756671         -15.67042991         -15.13633615         -14.56602929         -14.31300489
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	10        	-17.88972375         -16.43643350         -16.03682904         -15.50725463         -14.93752007         -14.58353879
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	10        	-18.34728278         -16.79771290         -16.40503622         -15.87982530         -15.31081053         -14.85546634
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	10        	-18.80740666         -17.16120072         -16.77491377         -16.25390358         -15.68572493         -15.12870783
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	10        	-19.26986526         -17.52671473         -17.14633702         -16.62936256         -16.06211077         -15.50109919
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	10        	-19.73445573         -17.89409191         -17.51919295         -17.00609014         -16.43983496         -15.87762206
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	10        	-20.20099843         -18.26318601         -17.89337894         -17.38398678         -16.81878074         -16.25551085
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	10        	-20.66933371         -18.63386553         -18.26880160         -17.76296365         -17.19884517         -16.63464627
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	10        	-21.13931912         -19.00601192         -18.64537585         -18.14294116         -17.57993708         -17.01492277
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	10        	-21.61082714         -19.37951808         -19.02302406         -18.52384770         -17.96197536         -17.39624664
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	10        	-22.08374325         -19.75428699         -19.40167522         -18.90561860         -18.34488760         -17.77853435
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	10        	-22.55796427         -20.13023062         -19.78126434         -19.28819529         -18.72860886         -18.16171117
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	10        	-23.03339700         -20.50726887         -20.16173179         -19.67152452         -19.11308078         -18.54571007
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	10        	-23.50995700         -20.88532874         -20.54302280         -20.05555779         -19.49825065         -18.93047071
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	10        	-23.98756760         -21.26434356         -20.92508699         -20.44025079         -19.88407078         -19.31593863
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	10        	-24.46615899         -21.64425231         -21.30787795         -20.82556292         -20.27049789         -19.70206453
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	10        	-24.94566748         -22.02499906         -21.69135283         -21.21145695         -20.65749257         -20.08880367
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	10        	-25.42603483         -22.40653243         -22.07547206         -21.59789859         -21.04501887         -20.47611534
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	10        	-25.90720767         -22.78880515         -22.46019901         -21.98485628         -21.43304390         -20.86396244
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	10        	-26.38913702         -23.17177367         -22.84549976         -22.37230085         -21.82153753         -21.25231104
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	10        	-26.87177780         -23.55539778         -23.23134283         -22.76020534         -22.21047205         -21.64113009
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	10        	-27.35508848         -23.93964030         -23.61769897         -23.14854475         -22.59982197         -22.03039108
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	10        	-27.83903074         -24.32446683         -24.00454098         -23.53729590         -22.98956377         -22.42006778
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	10        	-28.32356913         -24.70984545         -24.39184354         -23.92643723         -23.37967573         -22.81013607
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	10        	-28.80867083         -25.09574653         -24.77958303         -24.31594870         -23.77013774         -23.20057365
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	10        	-29.29430541         -25.48214254         -25.16773742         -24.70581159         -24.16093115         -23.59135993
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	10        	-29.78044460         -25.86900783         -25.55628612         -25.09600848         -24.55203865         -23.98247584
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	10        	-30.26706210         -26.25631851         -25.94520986         -25.48652304         -24.94344412         -24.37390370
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	10        	-30.75413343         -26.64405226         -26.33449060         -25.87734005         -25.33513257         -24.76562708
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	11        	-10.00000000         -10.00000000         -8.00000000         -8.00000000         -8.00000000         -8.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	11        	-10.00812647         -10.00812647         -8.10382727         -8.10382727         -8.09134361         -8.09134361
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	11        	-10.03252350         -10.03252350         -8.22336535         -8.22336535         -8.19694622         -8.19694622
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	11        	-10.07324442         -10.07324442         -8.35855511         -8.35855511         -8.31652654         -8.31652654
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	11        	-10.13037935         -10.13037931         -8.50934349         -8.50934345         -8.44977636         -8.44977632
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	11        	-10.20405742         -10.20405697         -8.67567501         -8.67567457         -8.59635223         -8.59635179
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	11        	-10.29445046         -10.29444724         -8.85748055         -8.85747732         -8.75586942         -8.75586619
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	11        	-10.40177963         -10.40176269         -9.05466267         -9.05464573         -8.92790143         -8.92788449
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	11        	-10.52632806         -10.52625759         -9.26707806         -9.26700759         -9.11199156         -9.11192110
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	11        	-10.66846429         -10.66821989         -9.49451801         -9.49427361         -9.30768597         -9.30744157
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	11        	-10.82868327         -10.82795085         -9.73668988         -9.73595746         -9.51460058         -9.51386816
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	11        	-11.00767063         -11.00572719         -9.99320268         -9.99125925         -9.73253230         -9.73058886
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	11        	-11.20638801         -11.20174380         -10.26356022         -10.25891601         -9.96161307         -9.95696886
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	11        	-11.42615444         -11.41604269         -10.54716387         -10.53705212         -10.20247483         -10.19236308
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	11        	-11.66865231         -11.64844299         -10.84332514         -10.82311582         -10.45633784         -10.43612852
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	11        	-11.93573414         -11.89849241         -11.15128610         -11.11404436         -10.72487715         -10.68763542
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	11        	-12.22893114         -12.16545772         -11.47024436         -11.40677094         -11.00974992         -10.94627650
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	11        	-12.54878364         -12.44835888         -11.79937898         -11.69895422         -11.31189870         -11.21147394
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	11        	-12.89440842         -12.74603667         -12.13787410         -11.98950235         -11.63105597         -11.48268421
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	11        	-13.26364571         -13.05723424         -12.48493841         -12.27852694         -11.96581229         -11.75940082
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	11        	-13.65364354         -13.38067389         -12.83981949         -12.56684984         -12.31412509         -12.04115544
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	11        	-14.06145531         -13.71511706         -13.20181324         -12.85547499         -12.67385593         -12.32751769
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	11        	-14.48439983         -14.05940403         -13.57026899         -13.14527319         -13.04308976         -12.61809396
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	11        	-14.92019082         -14.41247533         -13.94459120         -13.43687571         -13.42024110         -12.91252561
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	11        	-15.36693524         -14.77337939         -14.32423872         -13.80404260         -13.73068287         -13.28346646
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	11        	-15.82308094         -15.14127106         -14.70872240         -14.19349165         -14.02691252         -13.67109792
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	11        	-16.28735463         -15.51540498         -15.09760173         -14.58779253         -14.32565207         -14.06437824
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	11        	-16.75870615         -15.89512634         -15.49048088         -14.98630744         -14.62690108         -14.46250583
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	11        	-17.23626280         -16.27986087         -15.88700473         -15.38851855         -14.93060281         -14.86482944
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	11        	-17.71929351         -16.66910501         -16.28685482         -15.79399966         -15.27081490         -15.23666632
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	11        	-18.20718092         -17.06241679         -16.68974555         -16.20239544         -15.68001983         -15.54498142
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	11        	-18.69939972         -17.45940767         -17.09542066         -16.61340605         -16.09207439         -15.85542861
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	11        	-19.19549979         -17.85973533         -17.50365004         -17.02677569         -16.50666668         -16.16788558
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	11        	-19.69509287         -18.26309747         -17.91422676         -17.44228407         -16.92353143         -16.48223136
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	11        	-20.19784210         -18.66922638         -18.32696454         -17.85973985         -17.34244136         -16.82313616
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	11        	-20.70345357         -19.07788436         -18.74169541         -18.27897559         -17.76320028         -17.24306189
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	11        	-21.21166956         -19.48885979         -19.15826764         -18.69984383         -18.18563781         -17.66482440
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	11        	-21.72226300         -19.90196369         -19.57654398         -19.12221391         -18.60960504         -18.08825362
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	11        	-22.23503298         -20.31702692         -19.99640006         -19.54596951         -19.03497116         -18.51320045
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	11        	-22.74980102         -20.73389763         -20.41772293         -19.97100656         -19.46162061         -18.93953357
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	11        	-23.26640793         -21.15243917         -20.84040992         -20.39723156         -19.88945090         -19.36713680
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	11        	-23.78471130         -21.57252825         -21.26436745         -20.82456026         -20.31837067         -19.79590695
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	11        	-24.30458325         -21.99405338         -21.68951015         -21.25291639         -20.74829820         -20.22575202
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	11        	-24.82590861         -22.41691347         -22.11575997         -21.68223077         -21.17916007         -20.65658969
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	11        	-25.34858339         -22.84101669         -22.54304543         -22.11244044         -21.61089017         -21.08834605
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	11        	-25.87251339         -23.26627945         -22.97130099         -22.54348795         -22.04342868         -21.52095456
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	11        	-26.39761310         -23.69262543         -23.40046642         -22.97532074         -22.47672140         -21.95435509
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	11        	-26.92380468         -24.11998491         -23.83048633         -23.40789065         -22.91071902         -22.38849319
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	11        	-27.45101712         -24.54829398         -24.26130966         -23.84115342         -23.34537658         -22.82331942
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	11        	-27.97918552         -24.97749403         -24.69288929         -24.27506832         -23.78065300         -23.25878874
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	11        	-28.50825039         -25.40753115         -25.12518167         -24.70959778         -24.21651064         -23.69486006
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	11        	-29.03815714         -25.83835570         -25.55814652         -25.14470709         -24.65291492         -24.13149581
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	11        	-29.56885557         -26.26992191         -25.99174648         -25.58036413         -25.08983406         -24.56866153
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	11        	-30.10029940         -26.70218745         -26.42594690         -26.01653913         -25.52723874         -25.00632558
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	11        	-30.63244595         -27.13511321         -26.86071558         -26.45320445         -25.96510187         -25.44445884
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	11        	-31.16525575         -27.56866289         -27.29602257         -26.89033441         -26.40339841         -25.88303445
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	11        	-31.69869223         -28.00280285         -27.73183996         -27.32790507         -26.84210512         -26.32202762
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	11        	-32.23272152         -28.43750181         -28.16814173         -27.76589414         -27.28120047         -26.76141541
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	11        	-32.76731213         -28.87273065         -28.60490359         -28.20428082         -27.72066440         -27.20117655
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	11        	-33.30243481         -29.30846226         -29.04210284         -28.64304565         -28.16047826         -27.64129130
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	11        	-33.83806228         -29.74467136         -29.47971823         -29.08217043         -28.60062465         -28.08174133
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	-9.16663540         -4.49028239         -3.00000000         -1.67635301         1.67635301         3.00000000
+# 1st k-eigenvalues of Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	-2.23606798         -1.00000000         1.00000000         2.23606798         .00000000         .00000000

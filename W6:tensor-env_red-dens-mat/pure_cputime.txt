@@ -1,0 +1,64 @@
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            1
+   6.1999999999999555E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   5.6999999999999759E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            3
+   5.6999999999999759E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            4
+   5.7999999999999892E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            5
+   5.9000000000000025E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            6
+   6.5000000000000821E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            7
+   6.6999999999999352E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            8
+   8.6000000000000139E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            9
+   9.3000000000000201E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           10
+   1.3699999999999997E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           11
+   1.9999999999999966E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           12
+   3.4999999999999962E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           13
+   8.8799999999999990E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           14
+   1.2360000000000001E-003
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           15
+   2.4619999999999998E-003
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           16
+   5.3000000000000000E-003
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           17
+   1.0395000000000000E-002
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           18
+   1.9783000000000002E-002
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           19
+   4.2154999999999998E-002
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           20
+   8.6345999999999992E-002
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           21
+  0.17164499999999999     
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           22
+  0.35696099999999997     
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =           23
+  0.68887099999999990     
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            3
+   8.1999999999999608E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   1.1599999999999978E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   8.0000000000000210E-005
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   1.0200000000000053E-004
+ # Cpu time to initialize state with inner dimension d =            3 and N bodies =            3
+   5.8899999999999925E-004
+ # Cpu time to initialize state with inner dimension d =            3 and N bodies =            5
+   6.6899999999999946E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   1.2600000000000024E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            3
+   1.0399999999999993E-004
+ # Cpu time to initialize state with inner dimension d =            2 and N bodies =            2
+   1.6599999999999948E-004
