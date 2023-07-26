@@ -1,0 +1,2 @@
+This folder contains the Fortran Code and the saved output of the exercise.
+However, Organizing the materials could have lead to some errors in the python script, (mostly because of wrong path of the files).
