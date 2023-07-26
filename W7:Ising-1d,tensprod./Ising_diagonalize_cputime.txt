@@ -1,0 +1,1224 @@
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	2        	.00009100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	2        	.00005500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	2        	.00005600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	2        	.00004600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	2        	.00005000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	2        	.00004400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	2        	.00004800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	2        	.00004800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	2        	.00004500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	2        	.00004500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	2        	.00004200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	2        	.00004900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	2        	.00004600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	2        	.00004400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	2        	.00006200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	2        	.00005500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	2        	.00004500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	2        	.00004800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	2        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	2        	.00004700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	.00008700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	2        	.00005500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	2        	.00004800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	2        	.00010500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	2        	.00007100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	2        	.00004900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	2        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	2        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	2        	.00005800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	2        	.00006400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	2        	.00010200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	2        	.00006300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	2        	.00008500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	2        	.00008000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	2        	.00006200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	2        	.00008000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	2        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	2        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	2        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	2        	.00006500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	2        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	2        	.00006100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	2        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	2        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	2        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	2        	.00005900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	2        	.00006100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	2        	.00006400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	2        	.00006200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	2        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	2        	.00006300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	2        	.00005900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	2        	.00007800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	2        	.00006100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	2        	.00006500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	2        	.00006300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	2        	.00005900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	2        	.00008100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	2        	.00006100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	2        	.00005400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	2        	.00006200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	3        	.00007100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	3        	.00015300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	3        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	3        	.00007300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	3        	.00007300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	3        	.00007300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	3        	.00007800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	3        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	3        	.00007900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	3        	.00007800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	3        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	3        	.00005300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	3        	.00008400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	3        	.00007300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	3        	.00007800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	3        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	3        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	3        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	3        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	3        	.00012800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	3        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	3        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	3        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	3        	.00007500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	3        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	3        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	3        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	3        	.00007100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	3        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	3        	.00007200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	3        	.00006600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	3        	.00006500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	3        	.00006700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	3        	.00007000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	3        	.00006800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	3        	.00007600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	3        	.00006900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	3        	.00007400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	.00007900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	4        	.00014600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	4        	.00010200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	4        	.00009800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	4        	.00010700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	4        	.00009800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	4        	.00010000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	4        	.00010200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	4        	.00010400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	4        	.00011400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	4        	.00010000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	4        	.00011000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	4        	.00009100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	4        	.00007900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	4        	.00008200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	4        	.00007800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	4        	.00008000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	4        	.00008400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	4        	.00009900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	4        	.00010000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	4        	.00009900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	4        	.00010800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	4        	.00009700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	4        	.00010400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	4        	.00009500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	4        	.00010700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	4        	.00010000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	4        	.00009900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	4        	.00009900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	4        	.00009800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	4        	.00010700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	4        	.00010900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	4        	.00011100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	4        	.00010000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	4        	.00009500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	4        	.00009800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	4        	.00010600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	4        	.00009400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	4        	.00009700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	4        	.00011600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	4        	.00009800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	4        	.00010400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	4        	.00013800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	4        	.00015300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	4        	.00011100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	4        	.00011300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	4        	.00011300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	4        	.00010100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	4        	.00010300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	4        	.00009700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	4        	.00009600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	5        	.00019000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	5        	.00020500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	5        	.00020800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	5        	.00023300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	5        	.00020300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	5        	.00019700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	5        	.00020000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	5        	.00014600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	5        	.00020300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	5        	.00022600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	5        	.00021400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	5        	.00031200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	5        	.00014800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	5        	.00016000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	5        	.00019900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	5        	.00022200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	5        	.00023700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	5        	.00020900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	5        	.00024500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	5        	.00030800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	5        	.00020700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	5        	.00022300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	5        	.00015700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	5        	.00020400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	5        	.00015000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	5        	.00025500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	5        	.00026800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	5        	.00017200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	5        	.00018300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	5        	.00015400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	5        	.00015700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	5        	.00021900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	5        	.00021400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	5        	.00023600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	5        	.00021700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	5        	.00020800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	5        	.00015500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	5        	.00016300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	5        	.00017300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	5        	.00020800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	5        	.00015100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	5        	.00014800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	5        	.00013500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	5        	.00013600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	5        	.00015200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	5        	.00017700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	5        	.00020900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	5        	.00014000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	5        	.00014000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	5        	.00013500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	5        	.00018700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	5        	.00013400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	5        	.00014100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	5        	.00015800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	5        	.00013500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	5        	.00015300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	5        	.00015600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	5        	.00014100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	5        	.00021100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	5        	.00017100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	5        	.00021300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	6        	.00211000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	6        	.00080300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	6        	.00079200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	6        	.00103200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	6        	.00097800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	6        	.00075600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	6        	.00080300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	6        	.00110100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	6        	.00090200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	6        	.00069200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	6        	.00081600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	6        	.00102600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	6        	.00078400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	6        	.00083300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	6        	.00073900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	6        	.00076100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	6        	.00094000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	6        	.00080700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	6        	.00078100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	6        	.00084100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	6        	.00082800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	6        	.00085800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	6        	.00090800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	6        	.00073000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	6        	.00071300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	6        	.00071900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	6        	.00116100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	6        	.00096300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	6        	.00079500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	6        	.00072400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	6        	.00072700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	6        	.00071200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	6        	.00069700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	6        	.00113100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	6        	.00089800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	6        	.00077900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	6        	.00077800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	6        	.00112300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	6        	.00089700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	6        	.00071800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	6        	.00093300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	6        	.00072500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	6        	.00077700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	6        	.00078100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	6        	.00083000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	6        	.00128300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	6        	.00122900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	6        	.00147200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	6        	.00121000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	6        	.00120500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	6        	.00111200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	6        	.00081900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	6        	.00079100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	6        	.00106500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	6        	.00110300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	6        	.00100700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	6        	.00075500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	6        	.00071300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	6        	.00075700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	6        	.00086800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	6        	.00129800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	7        	.00575500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	7        	.00626700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	7        	.00528600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	7        	.00678900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	7        	.00556300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	7        	.00414600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	7        	.00593200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	7        	.00453000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	7        	.00473800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	7        	.00460600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	7        	.00419600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	7        	.00441400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	7        	.00453000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	7        	.00444000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	7        	.00454700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	7        	.00565600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	7        	.00554800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	7        	.00500300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	7        	.00536700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	7        	.00542500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	7        	.00507400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	7        	.00517600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	7        	.00551300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	7        	.00600700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	7        	.00536100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	7        	.00605000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	7        	.00554700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	7        	.00675600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	7        	.00498700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	7        	.00574300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	7        	.00459800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	7        	.00665600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	7        	.00525500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	7        	.00552200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	7        	.00549000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	7        	.00597200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	7        	.00447300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	7        	.00552600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	7        	.00541700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	7        	.00577200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	7        	.00716100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	7        	.00613600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	7        	.00508900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	7        	.00479300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	7        	.00689000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	7        	.00465500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	7        	.00585900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	7        	.00672700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	7        	.00493100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	7        	.00455300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	7        	.00622800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	7        	.00564700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	7        	.00423400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	7        	.00430800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	7        	.00613000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	7        	.00544900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	7        	.00503100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	7        	.00419200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	7        	.00540200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	7        	.00501000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	7        	.00438000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	8        	.02697200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	8        	.02761500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	8        	.02905200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	8        	.02632600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	8        	.02841600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	8        	.03261800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	8        	.02870900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	8        	.02874800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	8        	.02772000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	8        	.02682200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	8        	.02942000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	8        	.03325800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	8        	.03532600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	8        	.03573900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	8        	.03378000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	8        	.03811600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	8        	.03322700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	8        	.03834200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	8        	.03213600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	8        	.02897700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	8        	.03886800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	8        	.03314100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	8        	.03197000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	8        	.03996100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	8        	.03513100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	8        	.03840600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	8        	.03427300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	8        	.02836200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	8        	.03482800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	8        	.03132400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	8        	.03039700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	8        	.03379600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	8        	.03135600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	8        	.04336600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	8        	.04225100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	8        	.03388000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	8        	.03345300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	8        	.03678000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	8        	.03587000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	8        	.03492500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	8        	.03485400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	8        	.03574600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	8        	.03538700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	8        	.03607500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	8        	.03569200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	8        	.03828700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	8        	.03288800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	8        	.02825500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	8        	.02885000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	8        	.03575800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	8        	.03625700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	8        	.03212500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	8        	.02863100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	8        	.02930600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	8        	.03040800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	8        	.03318700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	8        	.03122400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	8        	.03602600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	8        	.03467300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	8        	.02690000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	8        	.02819100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	9        	.42167600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	9        	.41900500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	9        	.41657000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	9        	.40443900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	9        	.42299700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	9        	.34973400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	9        	.40279200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	9        	.42143200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	9        	.40780800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	9        	.37077300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	9        	.44513800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	9        	.34901000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	9        	.39063200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	9        	.44086500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	9        	.36721800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	9        	.37509300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	9        	.39729200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	9        	.40066900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	9        	.40696300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	9        	.42243400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	9        	.40882200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	9        	.43899500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	9        	.39348200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	9        	.39295300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	9        	.37203100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	9        	.41811500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	9        	.40297200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	9        	.39461000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	9        	.34982700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	9        	.38773800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	9        	.37094200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	9        	.42883600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	9        	.36168100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	9        	.37024700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	9        	.35935400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	9        	.37821400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	9        	.32454600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	9        	.40493300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	9        	.37753600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	9        	.39086100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	9        	.40324000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	9        	.41720100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	9        	.34419100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	9        	.40569000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	9        	.39938800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	9        	.40474500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	9        	.36021000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	9        	.42914300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	9        	.37774000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	9        	.40267900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	9        	.39285400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	9        	.40996600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	9        	.39648100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	9        	.37676200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	9        	.36528300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	9        	.38231000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	9        	.40087600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	9        	.37103700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	9        	.37547900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	9        	.35890100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	9        	.37549900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	10        	3.24175600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	10        	3.13627600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	10        	3.31778900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	10        	3.80615400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	10        	3.81192400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	10        	3.39614400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	10        	3.12687000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	10        	3.19022800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	10        	3.36661800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	10        	4.03764500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	10        	4.10376600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	10        	3.84659800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	10        	3.17587600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	10        	3.66811300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	10        	2.89586800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	10        	2.82844300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	10        	3.72656500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	10        	3.09053400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	10        	3.40685800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	10        	3.27639900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	10        	3.86438300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	10        	3.85471300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	10        	3.80479300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	10        	3.10775900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	10        	3.64136100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	10        	3.81798800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	10        	3.45452300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	10        	3.69299200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	10        	2.90252900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	10        	3.62937200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	10        	3.45486800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	10        	3.35245100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	10        	3.65080900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	10        	3.90364400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	10        	3.82475700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	10        	2.96921000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	10        	3.38539200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	10        	3.84859200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	10        	3.82073200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	10        	3.27085200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	10        	3.18952200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	10        	3.33091800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	10        	3.37848400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	10        	3.35465300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	10        	3.31910500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	10        	3.34077100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	10        	3.57335700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	10        	3.12786700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	10        	3.18161500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	10        	2.87457100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	10        	3.78078700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	10        	3.55154800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	10        	3.26361300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	10        	3.17299600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	10        	3.28959400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	10        	3.82162700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	10        	3.73029300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	10        	3.78824200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	10        	3.25500600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	10        	3.74533100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	10        	3.73019000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	11        	31.41890600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	11        	31.45040500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	11        	30.58284500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	11        	32.51926900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	11        	32.28779200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	11        	31.48019500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	11        	32.51318600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	11        	28.24893400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	11        	27.31054800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	11        	27.62442500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	11        	27.09551900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	11        	28.31370400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	11        	28.37876600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	11        	25.48427900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	11        	27.93864900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	11        	27.90628800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	11        	27.52599800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	11        	29.03761100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	11        	27.98223600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	11        	28.54754100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	11        	30.10343100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	11        	29.97103100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	11        	29.81302100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	11        	29.74867300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	11        	30.35047900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	11        	31.21694100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	11        	30.12911100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	11        	29.12632400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	11        	29.51887600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	11        	26.81439000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	11        	27.23371500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	11        	27.74334000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	11        	26.93130800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	11        	28.66681300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	11        	26.52369800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	11        	28.93709100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	11        	29.45160200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	11        	28.71776400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	11        	28.45883300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	11        	26.93379900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	11        	29.25204500
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	11        	27.07755100
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	11        	28.02768000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	11        	28.01063600
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	11        	28.38405200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	11        	27.44876400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	11        	28.54608800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	11        	28.54243400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	11        	28.43927400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	11        	29.30700400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	11        	27.83349200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	11        	30.00243200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	11        	27.81987700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	11        	27.97724400
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	11        	30.88560700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	11        	28.03762300
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	11        	29.80870800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	11        	27.83118900
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	11        	27.57631200
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	11        	27.55649000
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	11        	28.72139800
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	.00351700
+# Cpu time to diagonalize Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	.00008000

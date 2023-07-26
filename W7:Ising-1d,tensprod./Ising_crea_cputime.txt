@@ -1,0 +1,1224 @@
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	2        	.00002100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	2        	.00002900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	2        	.00002800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	2        	.00002400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	2        	.00002600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	2        	.00002400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	2        	.00002300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	2        	.00002600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	2        	.00002300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	2        	.00002100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	2        	.00002700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	2        	.00002700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	2        	.00002300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	2        	.00002300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	2        	.00002400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	2        	.00002300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	2        	.00002900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	2        	.00002500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	2        	.00002600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	2        	.00002400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	2        	.00004700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	2        	.00004600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	2        	.00003800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	2        	.00003700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	2        	.00003100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	2        	.00003900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	2        	.00003100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	2        	.00003000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	2        	.00003100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	2        	.00003400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	2        	.00003500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	2        	.00003200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	2        	.00003000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	2        	.00003500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	2        	.00003100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	2        	.00003300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	3        	.00006300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	3        	.00008400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	3        	.00006700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	3        	.00007000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	3        	.00006400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	3        	.00011400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	3        	.00006400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	3        	.00005700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	3        	.00004000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	3        	.00007900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	3        	.00007900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	3        	.00006400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	3        	.00006300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	3        	.00006200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	3        	.00006900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	3        	.00006200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	3        	.00006400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	3        	.00006600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	3        	.00005800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	3        	.00005800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	3        	.00005700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	3        	.00005600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	3        	.00006600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	3        	.00005700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	3        	.00006300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	3        	.00006200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	3        	.00005800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	3        	.00005900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	3        	.00006100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	3        	.00005700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	3        	.00005700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	3        	.00007000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	3        	.00006000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	3        	.00008400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	3        	.00006400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	.00007300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	4        	.00028000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	4        	.00017800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	4        	.00015300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	4        	.00017100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	4        	.00017100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	4        	.00017400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	4        	.00016000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	4        	.00016400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	4        	.00019000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	4        	.00011000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	4        	.00016300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	4        	.00012000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	4        	.00020600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	4        	.00011000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	4        	.00016700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	4        	.00017100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	4        	.00017200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	4        	.00022500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	4        	.00016800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	4        	.00016800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	4        	.00017600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	4        	.00018100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	4        	.00016800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	4        	.00026000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	4        	.00018200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	4        	.00017000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	4        	.00026100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	4        	.00016200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	4        	.00017100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	4        	.00017400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	4        	.00017200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	4        	.00017200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	4        	.00016500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	4        	.00016900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	4        	.00018400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	4        	.00024100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	4        	.00017600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	4        	.00018100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	4        	.00016400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	4        	.00017500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	4        	.00019400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	4        	.00017400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	4        	.00016700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	4        	.00017600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	4        	.00026800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	4        	.00016500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	4        	.00016700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	4        	.00017100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	4        	.00017400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	5        	.00058600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	5        	.00058800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	5        	.00058700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	5        	.00059700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	5        	.00058800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	5        	.00058800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	5        	.00057900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	5        	.00035500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	5        	.00058400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	5        	.00056000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	5        	.00055000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	5        	.00067900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	5        	.00035100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	5        	.00037800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	5        	.00052900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	5        	.00052800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	5        	.00054500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	5        	.00066600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	5        	.00068300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	5        	.00059700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	5        	.00060000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	5        	.00059100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	5        	.00053600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	5        	.00049900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	5        	.00035900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	5        	.00059200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	5        	.00053300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	5        	.00038700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	5        	.00054100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	5        	.00034900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	5        	.00036300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	5        	.00058900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	5        	.00059700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	5        	.00068700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	5        	.00056300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	5        	.00052800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	5        	.00036400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	5        	.00062500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	5        	.00045200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	5        	.00064000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	5        	.00055200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	5        	.00034800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	5        	.00032800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	5        	.00032800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	5        	.00037700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	5        	.00043600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	5        	.00055400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	5        	.00031900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	5        	.00032000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	5        	.00032300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	5        	.00044900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	5        	.00032000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	5        	.00032600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	5        	.00035600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	5        	.00032300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	5        	.00041300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	5        	.00052700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	5        	.00032200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	5        	.00032800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	5        	.00032100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	5        	.00069000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	6        	.00145300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	6        	.00182500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	6        	.00145300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	6        	.00183500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	6        	.00267600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	6        	.00251000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	6        	.00235300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	6        	.00175700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	6        	.00135700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	6        	.00154700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	6        	.00176200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	6        	.00210400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	6        	.00192500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	6        	.00177300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	6        	.00159400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	6        	.00137100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	6        	.00160800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	6        	.00239500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	6        	.00144400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	6        	.00141700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	6        	.00179300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	6        	.00187100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	6        	.00127900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	6        	.00129700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	6        	.00131900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	6        	.00161900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	6        	.00178800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	6        	.00220900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	6        	.00186700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	6        	.00145600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	6        	.00159000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	6        	.00139500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	6        	.00183800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	6        	.00255700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	6        	.00173300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	6        	.00144100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	6        	.00159300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	6        	.00190100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	6        	.00137400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	6        	.00136600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	6        	.00190500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	6        	.00171700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	6        	.00146500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	6        	.00146000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	6        	.00159800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	6        	.00235700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	6        	.00227200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	6        	.00225800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	6        	.00231200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	6        	.00157200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	6        	.00177000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	6        	.00186900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	6        	.00154200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	6        	.00139300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	6        	.00188200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	6        	.00156900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	6        	.00133200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	6        	.00132000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	6        	.00189400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	6        	.00182800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	6        	.00192900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	7        	.00762400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	7        	.00848200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	7        	.00664200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	7        	.00717200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	7        	.00739900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	7        	.00582100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	7        	.00564800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	7        	.00827800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	7        	.00561700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	7        	.00650000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	7        	.00656200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	7        	.00577500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	7        	.00693300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	7        	.00686800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	7        	.00625200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	7        	.00696700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	7        	.00797800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	7        	.00985200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	7        	.00802400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	7        	.00741400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	7        	.00822500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	7        	.00761600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	7        	.00624200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	7        	.00801200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	7        	.00764300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	7        	.00813400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	7        	.00721400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	7        	.00792300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	7        	.00690400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	7        	.00674700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	7        	.00661600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	7        	.00551700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	7        	.00755000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	7        	.00718800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	7        	.00729900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	7        	.00761200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	7        	.00753800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	7        	.00792000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	7        	.00720600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	7        	.00767100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	7        	.00917700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	7        	.00958200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	7        	.00714800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	7        	.00776200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	7        	.00596300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	7        	.00658000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	7        	.00705500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	7        	.01037300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	7        	.00572000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	7        	.00722200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	7        	.00980100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	7        	.00811900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	7        	.00605000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	7        	.00580400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	7        	.00597600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	7        	.00586100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	7        	.00578000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	7        	.00562900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	7        	.00681700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	7        	.00647200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	7        	.00580500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	8        	.02495400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	8        	.03135400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	8        	.03083900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	8        	.03365900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	8        	.02965300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	8        	.03034200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	8        	.02658700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	8        	.03038000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	8        	.02947200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	8        	.02988000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	8        	.02953700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	8        	.03057300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	8        	.03527500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	8        	.03463100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	8        	.03405700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	8        	.03580600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	8        	.03465700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	8        	.03791700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	8        	.03684500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	8        	.03418100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	8        	.04167300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	8        	.03507500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	8        	.03410200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	8        	.03579600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	8        	.03369500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	8        	.03815600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	8        	.04052500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	8        	.03040400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	8        	.03147700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	8        	.03448700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	8        	.02809400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	8        	.03895800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	8        	.02920600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	8        	.03181700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	8        	.04035400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	8        	.03850500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	8        	.04141900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	8        	.03876900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	8        	.03608600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	8        	.03441200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	8        	.03703700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	8        	.03429200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	8        	.03383200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	8        	.03762700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	8        	.03778900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	8        	.03441400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	8        	.03625100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	8        	.02747900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	8        	.03017300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	8        	.03459800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	8        	.03810800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	8        	.03307700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	8        	.02967200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	8        	.03231100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	8        	.03471800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	8        	.03385700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	8        	.03463200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	8        	.03303700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	8        	.03441100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	8        	.03105700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	8        	.02931900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	9        	.15044800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	9        	.17801600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	9        	.16609200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	9        	.19441300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	9        	.16015100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	9        	.15885500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	9        	.16729200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	9        	.16756600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	9        	.18865800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	9        	.16121300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	9        	.15401400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	9        	.18095600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	9        	.19276800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	9        	.16383000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	9        	.19231600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	9        	.14326800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	9        	.19112400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	9        	.23916100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	9        	.22435400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	9        	.24129300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	9        	.24626000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	9        	.22905200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	9        	.24048400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	9        	.15642100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	9        	.19222600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	9        	.20761200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	9        	.16048300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	9        	.20158500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	9        	.17044900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	9        	.14999000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	9        	.21801300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	9        	.20394200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	9        	.16274800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	9        	.14723600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	9        	.19669300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	9        	.16023800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	9        	.16316500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	9        	.19473600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	9        	.17052600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	9        	.15850900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	9        	.15768900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	9        	.19935200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	9        	.17740500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	9        	.18240900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	9        	.17447600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	9        	.16648000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	9        	.20780700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	9        	.19201000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	9        	.15951100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	9        	.21107800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	9        	.19994500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	9        	.15619500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	9        	.18967900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	9        	.14719200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	9        	.15089600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	9        	.15325000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	9        	.15143600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	9        	.15185200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	9        	.14754000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	9        	.14123200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	9        	.15290100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	10        	.64826500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	10        	.65842000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	10        	.60842800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	10        	.66972300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	10        	.59815000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	10        	.61374100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	10        	.64654500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	10        	.61678400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	10        	.61270000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	10        	.63949600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	10        	.62528600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	10        	.60598300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	10        	.60728500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	10        	.65350700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	10        	.76636600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	10        	.74525900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	10        	.68009400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	10        	.63060200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	10        	.62199100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	10        	.68675100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	10        	.64558500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	10        	.62528800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	10        	.61015000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	10        	.59729200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	10        	.61403400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	10        	.63919700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	10        	.61711100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	10        	.59373700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	10        	.71465200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	10        	.60038700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	10        	.60103100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	10        	.64118400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	10        	.63926200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	10        	.59879800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	10        	.60182700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	10        	.59465900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	10        	.59627000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	10        	.58630900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	10        	.60646000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	10        	.59773800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	10        	.59130200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	10        	.79434100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	10        	.61685200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	10        	.57604100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	10        	.58389900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	10        	.59425700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	10        	.62637600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	10        	.63042800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	10        	.59564400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	10        	.58678000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	10        	.60551800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	10        	.58889500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	10        	.65258400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	10        	.59093300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	10        	.67143400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	10        	.62055400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	10        	.59733300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	10        	.60390200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	10        	.69906700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	10        	.58887700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	10        	.59449900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.00000000        	11        	2.96715700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.05000000        	11        	2.71683800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.10000000        	11        	2.51532900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.15000000        	11        	2.57489200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.20000000        	11        	2.64886100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.25000000        	11        	2.53266700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.30000000        	11        	2.46952600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.35000000        	11        	2.51289800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.40000000        	11        	3.13534200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.45000000        	11        	2.93947900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.50000000        	11        	2.80525000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.55000000        	11        	2.82762700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.60000000        	11        	3.31093700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.65000000        	11        	2.87064300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.70000000        	11        	3.25259300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.75000000        	11        	3.20846100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.80000000        	11        	2.74026400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.85000000        	11        	2.81078500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.90000000        	11        	2.69297900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+.95000000        	11        	2.71412500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	11        	2.78408700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.05000000        	11        	2.70222000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.10000000        	11        	2.97421900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.15000000        	11        	2.87703500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.20000000        	11        	2.70158400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.25000000        	11        	2.73894200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.30000000        	11        	2.75397300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.35000000        	11        	2.75626300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.40000000        	11        	2.74168800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.45000000        	11        	2.97664100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.50000000        	11        	3.18151800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.55000000        	11        	2.83387100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.60000000        	11        	3.03328100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.65000000        	11        	2.81946100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.70000000        	11        	2.90188900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.75000000        	11        	2.91514200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.80000000        	11        	2.70250700
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.85000000        	11        	2.71235900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.90000000        	11        	2.76071300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.95000000        	11        	2.73637900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.00000000        	11        	2.72792000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.05000000        	11        	2.79920000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.10000000        	11        	2.72446100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.15000000        	11        	2.73267800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.20000000        	11        	2.87492900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.25000000        	11        	2.79565900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.30000000        	11        	2.78391100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.35000000        	11        	2.80750900
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.40000000        	11        	2.76030200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.45000000        	11        	2.80381400
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.50000000        	11        	2.82123300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.55000000        	11        	2.72257800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.60000000        	11        	2.76307500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.65000000        	11        	2.87863600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.70000000        	11        	2.71348200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.75000000        	11        	2.72228000
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.80000000        	11        	2.81616600
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.85000000        	11        	2.77625200
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.90000000        	11        	2.73004500
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+2.95000000        	11        	2.90573100
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	11        	2.73944800
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+3.00000000        	3        	.00026300
+# Cpu time to define Ising hamiltonian with 1) lambda, 2) n spin particles 3) time
+1.00000000        	2        	.00004800
