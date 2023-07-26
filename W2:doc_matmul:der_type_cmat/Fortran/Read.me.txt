@@ -1,0 +1,56 @@
+In the following, general information on "2022/23 Quantum Information and Computing's ASSIGNMENT n.2" 
+exercises are presented.
+
+ -- Exercise1.f90
+The goal was to create a subroutine to be used as a checkpoint for debugging, including
+a debug logical variable. 
+In Exercise1.f90 that subroutine is called "print_matrix_debug(AA, nn, mm, mat_name, debug)".
+It accepts the logical variable DEBUG and it returns different outputs depending on the logical value.
+In that case, the subroutine requests also a matrix "AA", with "nn" rows, "mm" columns, named "mat_name".
+This choice was made because this routine will be used in Exercise 2.
+
+ -- Exercise2.f90 
+The program concerns the implementation of Exercise n.3 from the previous assignment (ASSIGNMENT 1), 
+whose goal was to make matrix multiplication and CPU time measure.
+It can work in different ways depending on 2 logical variables:
+ - DEBUG: when set to .true., the program will return almost all the results of inner calculations.
+ - SCRIPT: when set to .true., It removes all the PRINT statements from the STDOUT so that the python
+        script (uploaded previously) can properly work.
+
+As input, the user is requested to enter the dimensions of 2 matrices, that will be coherently initialized
+with real random values from 0 to 1. 
+As Output, the program will return the 3 CPU times associated with 3 different algorithms used to
+execute the matrix multiplication.
+
+In the program, many comments have been added to explain the code. In some cases, some of them could even seem
+unnecessary. Although, I preferred to be verbose now so that it could help me in the future.
+
+As pre- and post- conditions I added to the program 2 subroutines and an IF condition:
+ - IF statement (n_columns_AA /= n_rows_BB):
+    It allows doing the matrix multiplication only if the 2 matrix dimensions are compatible
+    (1-matrix's #columns are equal to 2-matrix's #rows).
+    
+ - read_and_check_mat_dim(n_rows, n_columns):
+    Its main goal is to READ the dimensions of a matrix. Moreover, it checks whether these values 
+    are positive integers and the sizes of the matrix can be handled by my laptop
+    (matrices bigger than 1300 x 1300, take too much computation time).
+
+ - comparing_matrix(AA, BB, nn, mm, eps):
+    Given two matrices "AA, BB" with "nn" rows and "mm" columns each, it checks that the difference 
+    between (same ij)-entries is lower than a prefixed value "eps".
+
+The Previous subroutines are also used to prevent Errors and to define checkpoints.
+For instance, entering a CHARACTER when an integer is requested, is prevented by
+"read_and_check_mat_dim()" subroutine.
+
+ -- Exercise3.f90 
+In Exercise3.f90 a Derived Type referring to Complex matrices, has been constructed. 
+To start understanding "Object Oriented Programming", I also chose to define the "extended" 
+type: "square complex matrix" and to create functions and subroutines that work slightly differently
+respect to those associated with the "father type". The differences regard mainly the possibility to
+define a trace only for square matrices.
+Moreover, the program contains a way to print in a readable form a generic complex matrix. 
+Output File's name is "complex_matrix.txt".
+
+
+
